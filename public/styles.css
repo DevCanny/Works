@@ -18,7 +18,28 @@
     /* display: flex;
     align-items: center;
     justify-content: center; */
-    height: 400px;
+    height: auto;
+}
+
+.space {
+    height: 100px;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.game-icons {
+    height: 500px;
+    width: 250px;
+}
+
+.mightybaseplate-face {
+    height: 250px;
+    width: 200px;
 }
 
 iframe {
